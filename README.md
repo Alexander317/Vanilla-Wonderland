@@ -1,4 +1,4 @@
-# Vanilla-Wonderland
+# Vanilla+ Wonderland
 Vanilla+ modpack with adventure features and performance improvements!
 
 Have you ever thought about what would happen if you merged the **top performance enhancements** from the best mods with **useful vanilla+ features**, the **most beautifull visuals** and **immersive adventures**? Well, I did. That's why I created the **Vanilla+ Wonderland modpack**!
